@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>수정해보기</title>
 </head>
 <body>
 <h1>test1</h1>
